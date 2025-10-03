@@ -1,0 +1,7 @@
+,Median_View_Count,Median_View_Count,Video_Count,Video_Count,Avg_Duration_Minutes,Avg_Duration_Minutes,Total_Duration_Hours,Total_Duration_Hours
+performance,Bottom Quartile,Top Quartile,Bottom Quartile,Top Quartile,Bottom Quartile,Top Quartile,Bottom Quartile,Top Quartile
+channelTitle,,,,,,,,
+AWS Developers,494.0,5957.0,267,267,30.57,33.84,136.03,150.59
+Google Cloud Tech,1069.0,18705.0,703,703,17.6,9.0,206.24,105.4
+IBM Technology,2391.0,89335.0,265,265,6.77,9.1,29.89,40.2
+Microsoft Azure,885.0,16643.0,241,241,11.97,10.32,48.09,41.46
