@@ -207,3 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 tmp/
+all_channels_quartile_videos.csv
