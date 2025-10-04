@@ -208,3 +208,5 @@ __marimo__/
 
 tmp/
 all_channels_quartile_videos.csv
+output_csv/
+picture/
