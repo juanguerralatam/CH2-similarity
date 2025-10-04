@@ -1,0 +1,27 @@
+# Content Similarity and Engagement Analysis Requirements
+# Core data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Machine Learning and Statistics
+scikit-learn>=1.1.0
+sentence-transformers>=2.2.0
+scipy>=1.9.0
+
+# Econometric Analysis
+linearmodels>=4.27
+statsmodels>=0.13.0
+
+# Data Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional utilities (built-in modules, but listed for completeness)
+# itertools - built-in
+# csv - built-in  
+# datetime - built-in
+# os - built-in
